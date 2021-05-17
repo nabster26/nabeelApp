@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/67883f36-a85d-46f8-8847-f38d61a8b81e/resourceGroups/nabeelAppGrp/providers/Microsoft.Web/sites/nabeelApp"
+}
